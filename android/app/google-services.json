@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "301538481181",
+    "project_id": "famelinks-app",
+    "storage_bucket": "famelinks-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301538481181:android:d605fd9a3add2a12b862f4",
+        "android_client_info": {
+          "package_name": "app.famelinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301538481181-b52e12abup49nshu5p1i0mk300qikgbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.famelinks",
+            "certificate_hash": "8b62326d7080bc72014526406df6bb54f9d16990"
+          }
+        },
+        {
+          "client_id": "301538481181-a5vfu7usl4p83a8leo76khecnpccj0tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCmtEAG-sfXHNuAhCANNAQpD3o-TiFm8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301538481181-67bbrjkfvejgajtijqsqah88o1r9tifk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "301538481181-f5qa1gti8120sfl17o08m36e2rppm237.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fame.famelink"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

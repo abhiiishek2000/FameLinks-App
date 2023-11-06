@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">301538481181-a5vfu7usl4p83a8leo76khecnpccj0tc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">301538481181</string>
+    <string name="google_api_key" translatable="false">AIzaSyDCmtEAG-sfXHNuAhCANNAQpD3o-TiFm8w</string>
+    <string name="google_app_id" translatable="false">1:301538481181:android:d605fd9a3add2a12b862f4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDCmtEAG-sfXHNuAhCANNAQpD3o-TiFm8w</string>
+    <string name="google_storage_bucket" translatable="false">famelinks-app.appspot.com</string>
+    <string name="project_id" translatable="false">famelinks-app</string>
+</resources>
